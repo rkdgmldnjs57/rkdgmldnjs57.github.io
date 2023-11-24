@@ -6,10 +6,10 @@
 
 ## 언어
 
-| Name | Level           | Bar |
-|------|-----------------|-----|
-| 한국어  | Native / Fluent | 1   |
-| 영어   | Intermediate    | 0.6 |
+| Name | Level           |
+|------|-----------------|
+| 한국어  | Native / Fluent |
+| 영어   | Intermediate    |
 
 ## 보유 기술
 
